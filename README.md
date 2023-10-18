@@ -1,8 +1,9 @@
-# React + Vite
+## Fast React Pizza Co
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Built with react and used redux for educational/learning purpose.
 
-Currently, two official plugins are available:
+### You are able to make your own custom order and search for an already existing order.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screenshot](src/images/react-pizza-landing.webp)  
+![screenshot](src/images/react-pizza-menu.webp)  
+![screenshot](src/images/react-pizza-checkout.webp)
